@@ -148,7 +148,7 @@ Previous Game;上一游戏
 Previous Letter;上一关键词
 Previous Page;上一页
 Random Game;随机游戏
-Remove '$1' from Favourites?;从收藏中先锋队 '$1'？
+Remove '$1' from Favourites?;从收藏中移除 '$1'？
 Remove Input;移除-设置按键
 Replay Last Game;重新上一次的游戏
 Right;90度（向右）
